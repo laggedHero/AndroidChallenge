@@ -1,8 +1,5 @@
 # AndroidChallenge
 
-Mobile coding challenge
-AndroidChallenge
-Mobile Android coding challenge
 
 Develop an app that allows a user to see the list of receipts and add the ability to remove them. 
 Fork this repo and keep it public until the review has been completed.
