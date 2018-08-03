@@ -23,6 +23,6 @@ Evaluation:
 - Write at last one class coverage test you think is interesting to test.
 - If you could use any new architecture like mvvp will be a bonus.
 
-Hints: Let's switch the user by the dropdown view. 
-
-To select rows to delete use the gmail UX 
+Hints: 
+- Let's switch the user by the dropdown view. 
+- Use the gmail list as UX reference with selectable rows to delete.
